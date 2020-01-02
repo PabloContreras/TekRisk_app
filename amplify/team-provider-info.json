@@ -10,6 +10,11 @@
             "StackName": "amplify-tekrisk-tkr-145145",
             "StackId": "arn:aws:cloudformation:us-east-1:064090835293:stack/amplify-tekrisk-tkr-145145/b1e5bf70-2da1-11ea-9a3f-0a3bc12b2732",
             "AmplifyAppId": "d1qjt31z5qr6l3"
+        },
+        "categories": {
+            "auth": {
+                "tekrisk571f2156": {}
+            }
         }
     }
 }

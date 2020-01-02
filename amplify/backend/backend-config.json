@@ -1,1 +1,9 @@
-{}
+{
+	"auth": {
+		"tekrisk571f2156": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
